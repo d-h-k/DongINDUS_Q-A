@@ -8,6 +8,8 @@ public class QnaApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(QnaApplication.class, args);
+		System.out.println("Hello world!!");
+		
 	}
 
 }
